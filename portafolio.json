@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Aceitunas de Azapa",
+        "fotos": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
+        "soporte": "digital",
+        "abstract": "Re-formulación de la narrativa (y formato) de venta",
+        "texto": "Entendiendo que la Aceituna de Azapa es de caracter único e incomparable con otros tipos tanto por las particularidades ambientales que se dan en el valle de Azaopa como por las características que estas le otorgan (grande, carnosa, de sabor fuerte y amargo), en este proyecto se tradujo esta unicidad en exclusividad la cual se tranmite a través de esta nueva narrativa de venta que incluye un nuevo oackaging, apunta a un público específico y se vende en tiendas minoristas que valoran este tipo de productos."
+    },
+    {
+        "nombre": "Sistema de biodigestores para Puerto Williams",
+        "fotos": ["https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310"],
+        "soporte": "digital",
+        "abstract": "implementación de biodigestores para la obtención de energía limpia en colegios de Puerto Williams",
+        "texto": "En el proyecto - Energía en tu basura - , se propone un sistema de implementación de biodigestores en los colegios locales para transformar la forma en que percibimos la basura y el mal aprovechamiento de los residuos orgánicos en Chile."
+    },
+    {
+        "nombre": "Maceterra",
+        "fotos": ["https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
+        "soporte": "editorial",
+        "abstract": "Maceteros de biomaterial hecho de Arcilla de Calcio",
+        "texto": "Macetero hexagonal plantable y biodegradable, hecho de biomaterial en base a carbonato de calcio el cual previene el exceso de residuos existentes en la venta de plantas y la automatiza el proceso de otorgarles nutrientes de forma manual a las plantas que necesitan calcio para crecer sanas."
+    },
+    {
+        "nombre": "Cambalache",
+        "fotos": ["https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310"],
+        "soporte": "industrial",
+        "abstract": "Servicio digital de intercambio de ropa en desuso a través de una aplicación de trueque directo entre personas. ",
+        "texto": "La aplicación Cambalache te permite subir tus prendas para luego mediante interacciones tipo match, encontrar alguien que este dispuesto a intercambiar una prenda suya por la tuya. Las prendas tienen puntuaciones según su estado y calidad, lo que regula la compatibilidad de los intercambios los cuales se coordinan posteriormente al match mediante un chat. Así, se agiliza y facilita el intercambio de ropa sin uso."
+    },
+    {
+        "nombre": "Amatista's Star Jacket",
+        "fotos": ["https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310"],
+        "soporte": "industrial",
+        "abstract": "Chaqueta hecha bajo la técnica de upcycling",
+        "texto": "Luego de un levantamiento de información y estudio de la identidad que toma el personaje Amatista de la serie animada Steven Universe se confeccionó esta chaqueta en base a una chaqueta antigua, modificandola para que tome una nueva vida al incorporar detalles que transmitan el caracter de dicho personaje."
+    }
+]
